@@ -50,6 +50,7 @@ Here are some ideas to get you started:
   <li><a href="https://github.com/Function-m/Ecole42-get_next_line" target="_blank">get_next_line</a> – 파일 디스크립터에서 한 줄씩 읽는 함수 구현</li>
   <li><a href="https://github.com/Function-m/Ecole42-Libft" target="_blank">Libft</a> – C 표준 함수 및 추가 유틸리티 함수, 연결 리스트 구현을 포함한 라이브러리</li>
   <li><a href="https://github.com/Function-m/Ecole42-Born2beRoot" target="_blank">Born2beRoot</a> – Debian과 VirtualBox를 이용한 리눅스 서버 설정 및 보안 관리 프로젝트</li>
+  <li><a href="https://github.com/Function-m/Ecole42-Libasm" target="_blank">Libasm</a> – NASM으로 C 표준 함수(ft\_strlen, ft\_strcpy 등)를 직접 구현한 어셈블리어 프로젝트.</li>
 </ul>
 
 ---
